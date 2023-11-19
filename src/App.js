@@ -9,7 +9,7 @@ function App() {
     <div> 
 	  <nav>
       <Link to="/" className="nav-item">Homepage</Link>
-      <Link to="/about" className="nav-item">About Little Lemon</Link>
+      <Link to="/about" className="nav-item">About Weka's Books</Link>
       <Link to="/contact" className="nav-item">Contact</Link>
 	  </nav>
       <Routes> 

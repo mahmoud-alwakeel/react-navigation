@@ -1,6 +1,10 @@
+import ReactPlayer from "react-player/youtube";
 function AboutLittleLemon() {
     return (
-        <h1>About AboutLittleLemon</h1>
+        <div>
+            <h1>About Weka's Books</h1>
+            <ReactPlayer url='https://youtube.com/shorts/ddb3J_Tk1Tg'></ReactPlayer>
+        </div>
     )
 }
 
